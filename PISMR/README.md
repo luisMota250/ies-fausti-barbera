@@ -2,6 +2,6 @@
 
 ### 🤓 Teacher: ``Rafael Castañeda``
 
-### 💫 Description: ``We see sustainability in the production system``
+### 💫 Description: ``Prepares us for the final project at the end of the year``
 
 ### 🤖 Link: https://aules.edu.gva.es/fp/course/view.php?id=210731
