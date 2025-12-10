@@ -1,5 +1,5 @@
 # ies-fausti-barbera
-**Contenido de aules de 2SMX**
+**Contenido de aules de 2SMX**:school_satchel::trollface:
 
 ## Lista de modulos
 -  **Aplicaciones web:** ``Sergio Olmo``
