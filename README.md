@@ -1,7 +1,7 @@
 # Ies-fausti-barbera
-**Contenido de aules de 2SMX**:school_satchel::trollface:
+**Content of classrooms 2SMX**:school_satchel::trollface:
 
-## Lista de modulos
+## List of modules
 -  **Aplicaciones web:** ``Sergio Olmo``
 -  **Itinerario personal para la empleabilidad:** ``Raquel Martinez``
 -  **Digitalizacion aplicada al sistema productivo** ``Juan Antonio Gomez``
