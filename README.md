@@ -11,3 +11,7 @@
 -  **Sistemas operatios en red** ``Oscar Garcia``
 -  **Seguridad informatica** ``Ivan pallares``
 -  **Sostenibilidad al sistema productivo** ``Rafael Castañeda``
+
+<img width="252" height="200" alt="imagen" src="https://github.com/user-attachments/assets/4436c969-eb04-4ad6-90d4-88884efaca77" />
+
+
